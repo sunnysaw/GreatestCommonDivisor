@@ -8,7 +8,6 @@ Enter Second Number:16
 Greatest Common Divisor:8
 */
 import static java.lang.StrictMath.min;
-
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
